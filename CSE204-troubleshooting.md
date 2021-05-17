@@ -56,4 +56,4 @@ style: |
 - Try hard-coding API output
 - Check props vs state.
 - Bind functions - be clear about when.
-- `Unexpected token   in JSON` - Overwrite package.json the output of this bash one-liner: `iconv -c -f utf-8 -t ascii package.json`.
+- `Unexpected token   in JSON` - Overwrite package.json with the output of this bash one-liner: `iconv -c -f utf-8 -t ascii package.json`.
